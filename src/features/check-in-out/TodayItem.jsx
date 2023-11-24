@@ -49,4 +49,3 @@ function TodayItem({ activity }) {
 }
 
 export default TodayItem;
-Link;
