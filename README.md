@@ -49,6 +49,7 @@ To run the Booking Management System locally, follow these steps:
 ## Usage
 1. Start the development server: `npm start`
 2. Open your browser and visit `http://localhost:3000` to access the Booking Management System dashboard.
+3. Login: `username:` admin@oasis.com `Password:` 1234567890
 
 ## Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
